@@ -663,5 +663,10 @@
     "name": "ELECTRONIC2",
     "creator": "DEV",
     "id": "213A9CA002C907D6"
+  },
+  {
+    "name": "WINGMAN",
+    "creator": "wingman",
+    "id": "301D5669E77D0FB2"
   }
 ]
